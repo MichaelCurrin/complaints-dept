@@ -1,7 +1,7 @@
 # Complaints Dept
 > Quirky 90s-themed website to reject all your complaints
 
-Generated with [Claude AI](https://claude.ai).
+Mostly based on code cenerated with [Claude AI](https://claude.ai).
 
 Prompt:
 
