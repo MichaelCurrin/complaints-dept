@@ -9,7 +9,7 @@
 
 ## About
 
-Mostly based on code generated with [Claude AI](https://claude.ai). Using vanilla JS.
+Mostly based on code generated with [Claude AI](https://claude.ai). Using vanilla JS, 'cause there was no React in the 90s.
 
 Prompt:
 
